@@ -1,2 +1,2 @@
-# bartersystem-stage-8
-solution for c83 
+# barter-app-stage-6
+project 82
